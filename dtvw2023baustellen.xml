@@ -1,0 +1,3680 @@
+<?xml version="1.0" encoding="UTF-8"?><wfs:FeatureCollection xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:verkehrsmengen_2023="verkehrsmengen_2023" xmlns:wfs="http://www.opengis.net/wfs/2.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" numberMatched="unknown" numberReturned="204" timeStamp="2025-12-07T02:03:59.510+01:00" xsi:schemaLocation="http://www.opengis.net/wfs/2.0 http://schemas.opengis.net/wfs/2.0/wfs.xsd verkehrsmengen_2023 https://gdi.berlin.de/services/wfs/verkehrsmengen_2023?service=WFS&amp;version=1.1.0&amp;request=DescribeFeatureType&amp;typeName=verkehrsmengen_2023%3Adtvw2023baustellen http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd">
+  <wfs:boundedBy>
+    <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+      <gml:lowerCorner>376422.56175411 5805257.06967374</gml:lowerCorner>
+      <gml:upperCorner>404393.30712422 5833810.38022762</gml:upperCorner>
+    </gml:Envelope>
+  </wfs:boundedBy>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1603">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390430.04043326 5816309.85286784</gml:lowerCorner>
+          <gml:upperCorner>390430.04043326 5816309.85286784</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1603</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schwiebusser Straße (Kreuzberg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1603.geom">
+          <gml:pos>390430.04043326 5816309.85286784</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1604">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>402880.60894575 5807708.85125786</gml:lowerCorner>
+          <gml:upperCorner>402880.60894575 5807708.85125786</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1604</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Richterstraße (Bohnsdorf)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Bohnsdorf</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1604.geom">
+          <gml:pos>402880.60894575 5807708.85125786</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1605">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>391970.94823282 5819228.79761573</gml:lowerCorner>
+          <gml:upperCorner>391970.94823282 5819228.79761573</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1605</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Roßstraßenbrücke (Mitte)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1605.geom">
+          <gml:pos>391970.94823282 5819228.79761573</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1606">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393562.05274159 5815865.87603014</gml:lowerCorner>
+          <gml:upperCorner>393562.05274159 5815865.87603014</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1606</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Karl-Marx-Straße (Neukölln)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1606.geom">
+          <gml:pos>393562.05274159 5815865.87603014</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1607">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392065.24846709 5819771.07887439</gml:lowerCorner>
+          <gml:upperCorner>392065.24846709 5819771.07887439</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1607</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Grunerstr. (Mitte)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1607.geom">
+          <gml:pos>392065.24846709 5819771.07887439</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1608">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>396165.39568185 5830078.93376104</gml:lowerCorner>
+          <gml:upperCorner>396165.39568185 5830078.93376104</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1608</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schräger Weg (Karow)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Karow</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1608.geom">
+          <gml:pos>396165.39568185 5830078.93376104</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1609">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390484.58817014 5819597.9673281</gml:lowerCorner>
+          <gml:upperCorner>390484.58817014 5819597.9673281</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1609</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Glinkastraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1609.geom">
+          <gml:pos>390484.58817014 5819597.9673281</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1610">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>385505.77981916 5816521.5110718</gml:lowerCorner>
+          <gml:upperCorner>385505.77981916 5816521.5110718</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1610</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Berliner Straße (Wilmersdorf)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Wilmersdorf</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1610.geom">
+          <gml:pos>385505.77981916 5816521.5110718</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1611">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389581.70349992 5816575.24964959</gml:lowerCorner>
+          <gml:upperCorner>389581.70349992 5816575.24964959</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1611</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Kreuzbergstraße (Kreuzberg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1611.geom">
+          <gml:pos>389581.70349992 5816575.24964959</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1612">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386699.40223312 5819390.83696124</gml:lowerCorner>
+          <gml:upperCorner>386699.40223312 5819390.83696124</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1612</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Müller-Breslau-Straße (Charlottenburg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Charlottenburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1612.geom">
+          <gml:pos>386699.40223312 5819390.83696124</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1613">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390892.66851773 5805257.06967374</gml:lowerCorner>
+          <gml:upperCorner>390892.66851773 5805257.06967374</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1613</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Bahnhofstraße (Lichtenrade)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Lichtenrade</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1613.geom">
+          <gml:pos>390892.66851773 5805257.06967374</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1614">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>395527.98355322 5818901.17560357</gml:lowerCorner>
+          <gml:upperCorner>395527.98355322 5818901.17560357</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1614</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Gärtnerstraße (Friedrichshain)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Friedrichshain</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1614.geom">
+          <gml:pos>395527.98355322 5818901.17560357</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1615">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393964.53390231 5817830.14836916</gml:lowerCorner>
+          <gml:upperCorner>393964.53390231 5817830.14836916</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1615</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Wrangelstraße (Kreuzberg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1615.geom">
+          <gml:pos>393964.53390231 5817830.14836916</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1616">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394256.53128416 5817905.4031395</gml:lowerCorner>
+          <gml:upperCorner>394256.53128416 5817905.4031395</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1616</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schlesisches Tor (Kreuzberg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1616.geom">
+          <gml:pos>394256.53128416 5817905.4031395</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1617">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>391940.30129303 5817669.50338812</gml:lowerCorner>
+          <gml:upperCorner>391940.30129303 5817669.50338812</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1617</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Gitschiner Straße (Kreuzberg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1617.geom">
+          <gml:pos>391940.30129303 5817669.50338812</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1618">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390338.77295847 5823651.05557753</gml:lowerCorner>
+          <gml:upperCorner>390338.77295847 5823651.05557753</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1618</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Badstraße (Gesundbrunnen)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Gesundbrunnen</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1618.geom">
+          <gml:pos>390338.77295847 5823651.05557753</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1619">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>385748.76683972 5820857.2297434</gml:lowerCorner>
+          <gml:upperCorner>385748.76683972 5820857.2297434</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1619</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Kaiserin-Augusta-Allee (Moabit)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1619.geom">
+          <gml:pos>385748.76683972 5820857.2297434</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1620">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393252.60551573 5817718.86139579</gml:lowerCorner>
+          <gml:upperCorner>393252.60551573 5817718.86139579</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1620</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Skalitzer Straße (Kreuzberg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1620.geom">
+          <gml:pos>393252.60551573 5817718.86139579</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1621">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>403148.15822426 5811429.62883579</gml:lowerCorner>
+          <gml:upperCorner>403148.15822426 5811429.62883579</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1621</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Müggelheimer Straße (Köpenick)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Köpenick</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1621.geom">
+          <gml:pos>403148.15822426 5811429.62883579</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1622">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394004.50245613 5818466.10345898</gml:lowerCorner>
+          <gml:upperCorner>394004.50245613 5818466.10345898</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1622</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Mühlenstraße (Friedrichshain)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Friedrichshain</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1622.geom">
+          <gml:pos>394004.50245613 5818466.10345898</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1623">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392649.27397567 5819834.57857954</gml:lowerCorner>
+          <gml:upperCorner>392649.27397567 5819834.57857954</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1623</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Alexanderstraße (Mitte)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1623.geom">
+          <gml:pos>392649.27397567 5819834.57857954</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1624">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>395328.85560558 5816888.49722406</gml:lowerCorner>
+          <gml:upperCorner>395328.85560558 5816888.49722406</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1624</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Elsenstraße (Alt-Treptow)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Alt-Treptow</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1624.geom">
+          <gml:pos>395328.85560558 5816888.49722406</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1625">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>384565.20480544 5817422.79713765</gml:lowerCorner>
+          <gml:upperCorner>384565.20480544 5817422.79713765</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1625</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Nestorstraße (Halensee)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Halensee</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1625.geom">
+          <gml:pos>384565.20480544 5817422.79713765</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1626">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>398897.73732096 5812676.60380159</gml:lowerCorner>
+          <gml:upperCorner>398897.73732096 5812676.60380159</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1626</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Sterndamm (Niederschöneweide)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Niederschöneweide</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1626.geom">
+          <gml:pos>398897.73732096 5812676.60380159</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1627">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386493.29673927 5813886.71652442</gml:lowerCorner>
+          <gml:upperCorner>386493.29673927 5813886.71652442</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1627</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Feuerbachstraße (Steglitz)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Steglitz</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1627.geom">
+          <gml:pos>386493.29673927 5813886.71652442</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1628">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393359.53989379 5816306.46898257</gml:lowerCorner>
+          <gml:upperCorner>393359.53989379 5816306.46898257</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1628</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Sonnenallee (Neukölln)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1628.geom">
+          <gml:pos>393359.53989379 5816306.46898257</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1629">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389443.65396401 5809626.70025579</gml:lowerCorner>
+          <gml:upperCorner>389443.65396401 5809626.70025579</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1629</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Großbeerenstraße/Marienfelder Allee (Marienfelde)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Marienfelde</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1629.geom">
+          <gml:pos>389443.65396401 5809626.70025579</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1630">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389789.45747802 5818047.66536291</gml:lowerCorner>
+          <gml:upperCorner>389789.45747802 5818047.66536291</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1630</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Tempelhofer Ufer (Kreuzberg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1630.geom">
+          <gml:pos>389789.45747802 5818047.66536291</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1631">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390169.05739451 5825658.86862929</gml:lowerCorner>
+          <gml:upperCorner>390169.05739451 5825658.86862929</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1631</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Provinzstraße (Reinickendorf)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Reinickendorf</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1631.geom">
+          <gml:pos>390169.05739451 5825658.86862929</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1632">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390695.60584806 5819514.02501594</gml:lowerCorner>
+          <gml:upperCorner>390695.60584806 5819514.02501594</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1632</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Friedrichstraße (Mitte)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1632.geom">
+          <gml:pos>390695.60584806 5819514.02501594</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1633">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>395431.09352399 5816959.42145838</gml:lowerCorner>
+          <gml:upperCorner>395431.09352399 5816959.42145838</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1633</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Puschkinallee (Alt-Treptow)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Alt-Treptow</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1633.geom">
+          <gml:pos>395431.09352399 5816959.42145838</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1634">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394367.18557355 5813617.33654886</gml:lowerCorner>
+          <gml:upperCorner>394367.18557355 5813617.33654886</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1634</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Buschkrugallee (Britz)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Britz</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1634.geom">
+          <gml:pos>394367.18557355 5813617.33654886</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1635">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>399784.79365975 5809209.44010226</gml:lowerCorner>
+          <gml:upperCorner>399784.79365975 5809209.44010226</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1635</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Wegedornstraße (Altglienicke)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Altglienicke</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1635.geom">
+          <gml:pos>399784.79365975 5809209.44010226</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1636">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386700.00102371 5818562.34520329</gml:lowerCorner>
+          <gml:upperCorner>386700.00102371 5818562.34520329</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1636</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Kantstraße (Charlottenburg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Charlottenburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1636.geom">
+          <gml:pos>386700.00102371 5818562.34520329</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1637">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>395200.15307705 5813855.1818874</gml:lowerCorner>
+          <gml:upperCorner>395200.15307705 5813855.1818874</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1637</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Bergiusstraße (Neukölln)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1637.geom">
+          <gml:pos>395200.15307705 5813855.1818874</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1638">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>387213.80434069 5815145.1334422</gml:lowerCorner>
+          <gml:upperCorner>387213.80434069 5815145.1334422</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1638</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Hauptstraße (Schöneberg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Schöneberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1638.geom">
+          <gml:pos>387213.80434069 5815145.1334422</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1639">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392116.03243946 5821062.31545902</gml:lowerCorner>
+          <gml:upperCorner>392116.03243946 5821062.31545902</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1639</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schönhauser Allee (Prenzlauer Berg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Prenzlauer Berg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1639.geom">
+          <gml:pos>392116.03243946 5821062.31545902</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1640">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>401763.04913586 5806643.76102165</gml:lowerCorner>
+          <gml:upperCorner>401763.04913586 5806643.76102165</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1640</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>A117 (Treptow-Zubringer)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Treptow-Zubringer</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1640.geom">
+          <gml:pos>401763.04913586 5806643.76102165</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1641">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>398425.66002468 5808648.39672906</gml:lowerCorner>
+          <gml:upperCorner>398425.66002468 5808648.39672906</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1641</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Neudecker Weg (Rudow)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Rudow</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1641.geom">
+          <gml:pos>398425.66002468 5808648.39672906</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1642">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>391484.08366566 5821145.38404435</gml:lowerCorner>
+          <gml:upperCorner>391484.08366566 5821145.38404435</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1642</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Torstraße (Mitte)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1642.geom">
+          <gml:pos>391484.08366566 5821145.38404435</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1643">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389431.8711079 5823056.43431992</gml:lowerCorner>
+          <gml:upperCorner>389431.8711079 5823056.43431992</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1643</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Reinickendorfer Straße (Wedding)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Wedding</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1643.geom">
+          <gml:pos>389431.8711079 5823056.43431992</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1644">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>395806.80538306 5817540.27438252</gml:lowerCorner>
+          <gml:upperCorner>395806.80538306 5817540.27438252</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1644</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Markgrafendamm (Friedrichshain)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Friedrichshain</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1644.geom">
+          <gml:pos>395806.80538306 5817540.27438252</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1645">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389365.43307179 5821203.37401004</gml:lowerCorner>
+          <gml:upperCorner>389365.43307179 5821203.37401004</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1645</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Minna-Cauer-Straße (Moabit)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1645.geom">
+          <gml:pos>389365.43307179 5821203.37401004</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1646">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>382830.13255955 5818064.55774736</gml:lowerCorner>
+          <gml:upperCorner>382830.13255955 5818064.55774736</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1646</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Messedamm (Westend)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Westend</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1646.geom">
+          <gml:pos>382830.13255955 5818064.55774736</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1647">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>387038.24301026 5817953.1822217</gml:lowerCorner>
+          <gml:upperCorner>387038.24301026 5817953.1822217</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1647</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Nürnberger Straße (Charlottenburg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Charlottenburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1647.geom">
+          <gml:pos>387038.24301026 5817953.1822217</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1648">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389327.45100707 5823661.47916941</gml:lowerCorner>
+          <gml:upperCorner>389327.45100707 5823661.47916941</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1648</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schulstraße (Wedding)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Wedding</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1648.geom">
+          <gml:pos>389327.45100707 5823661.47916941</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1649">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392863.85148194 5815650.07389449</gml:lowerCorner>
+          <gml:upperCorner>392863.85148194 5815650.07389449</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1649</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Flughafenstraße (Neukölln)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1649.geom">
+          <gml:pos>392863.85148194 5815650.07389449</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1650">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386892.87076992 5820659.62966156</gml:lowerCorner>
+          <gml:upperCorner>386892.87076992 5820659.62966156</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1650</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Alt-Moabit (Moabit)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1650.geom">
+          <gml:pos>386892.87076992 5820659.62966156</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1651">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392383.01871584 5825337.00331009</gml:lowerCorner>
+          <gml:upperCorner>392383.01871584 5825337.00331009</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1651</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Berliner Straße (Pankow)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Pankow</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1651.geom">
+          <gml:pos>392383.01871584 5825337.00331009</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1652">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389820.91036605 5814171.85914358</gml:lowerCorner>
+          <gml:upperCorner>389820.91036605 5814171.85914358</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1652</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Manteuffelstraße (Tempelhof)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Tempelhof</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1652.geom">
+          <gml:pos>389820.91036605 5814171.85914358</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1653">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390131.16086651 5821539.54702709</gml:lowerCorner>
+          <gml:upperCorner>390131.16086651 5821539.54702709</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1653</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Chausseestraße (Mitte)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1653.geom">
+          <gml:pos>390131.16086651 5821539.54702709</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1654">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393583.13549913 5827057.64980584</gml:lowerCorner>
+          <gml:upperCorner>393583.13549913 5827057.64980584</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1654</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>A114 AS Pasewalker Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Pankow-Zubringer</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1654.geom">
+          <gml:pos>393583.13549913 5827057.64980584</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1655">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>388423.826541 5820132.09781766</gml:lowerCorner>
+          <gml:upperCorner>388423.826541 5820132.09781766</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1655</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Paulstraße (Moabit)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1655.geom">
+          <gml:pos>388423.826541 5820132.09781766</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1656">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>395138.5207246 5813931.94093472</gml:lowerCorner>
+          <gml:upperCorner>395138.5207246 5813931.94093472</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1656</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Bergiusstraße (Neukölln)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1656.geom">
+          <gml:pos>395138.5207246 5813931.94093472</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1657">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>385348.11203966 5812292.77039279</gml:lowerCorner>
+          <gml:upperCorner>385348.11203966 5812292.77039279</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1657</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Gardeschützenweg (Lichterfelde)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Lichterfelde</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1657.geom">
+          <gml:pos>385348.11203966 5812292.77039279</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1658">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>398852.76223168 5832931.84379982</gml:lowerCorner>
+          <gml:upperCorner>398852.76223168 5832931.84379982</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1658</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Zepernicker Straße/Alt-Buch (Buch)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Buch</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1658.geom">
+          <gml:pos>398852.76223168 5832931.84379982</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1659">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386484.31333165 5811910.61280195</gml:lowerCorner>
+          <gml:upperCorner>386484.31333165 5811910.61280195</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1659</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Birkbuschstraße (Steglitz)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Steglitz</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1659.geom">
+          <gml:pos>386484.31333165 5811910.61280195</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1660">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>388684.5932324 5812053.08565683</gml:lowerCorner>
+          <gml:upperCorner>388684.5932324 5812053.08565683</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1660</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Attilastraße (Tempelhof)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Tempelhof</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1660.geom">
+          <gml:pos>388684.5932324 5812053.08565683</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1661">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>391687.698642 5818460.46185571</gml:lowerCorner>
+          <gml:upperCorner>391687.698642 5818460.46185571</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1661</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Oranienstraße (Kreuzberg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1661.geom">
+          <gml:pos>391687.698642 5818460.46185571</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1662">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394149.88709942 5814193.40444556</gml:lowerCorner>
+          <gml:upperCorner>394149.88709942 5814193.40444556</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1662</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Silbersteinstraße (Neukölln)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1662.geom">
+          <gml:pos>394149.88709942 5814193.40444556</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1663">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>385969.92431054 5814105.49578694</gml:lowerCorner>
+          <gml:upperCorner>385969.92431054 5814105.49578694</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1663</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Maßmannstraße (Steglitz)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Steglitz</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1663.geom">
+          <gml:pos>385969.92431054 5814105.49578694</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1664">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390856.94481117 5828027.70211364</gml:lowerCorner>
+          <gml:upperCorner>390856.94481117 5828027.70211364</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1664</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Kastanienallee (Rosenthal)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Rosenthal</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1664.geom">
+          <gml:pos>390856.94481117 5828027.70211364</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1665">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386420.5639314 5829518.41627482</gml:lowerCorner>
+          <gml:upperCorner>386420.5639314 5829518.41627482</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1665</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Jean-Jaurés-Straße (Wittenau)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Wittenau</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1665.geom">
+          <gml:pos>386420.5639314 5829518.41627482</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1666">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386447.15915737 5814054.70244037</gml:lowerCorner>
+          <gml:upperCorner>386447.15915737 5814054.70244037</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1666</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schöneberger Straße (Steglitz)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Steglitz</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1666.geom">
+          <gml:pos>386447.15915737 5814054.70244037</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1667">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>396279.19580547 5817970.55840751</gml:lowerCorner>
+          <gml:upperCorner>396279.19580547 5817970.55840751</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1667</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Hauptstraße (Rummelsburg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Rummelsburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1667.geom">
+          <gml:pos>396279.19580547 5817970.55840751</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1668">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>385672.70839177 5820849.65748197</gml:lowerCorner>
+          <gml:upperCorner>385672.70839177 5820849.65748197</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1668</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Kaiserin-Augusta-Allee (Charlottenburg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Charlottenburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1668.geom">
+          <gml:pos>385672.70839177 5820849.65748197</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1669">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392569.61281727 5820018.59399906</gml:lowerCorner>
+          <gml:upperCorner>392569.61281727 5820018.59399906</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1669</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Alexanderstraße (Mitte)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1669.geom">
+          <gml:pos>392569.61281727 5820018.59399906</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1670">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>377685.61213973 5821641.62328764</gml:lowerCorner>
+          <gml:upperCorner>377685.61213973 5821641.62328764</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1670</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Klosterstraße (Spandau)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Spandau</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1670.geom">
+          <gml:pos>377685.61213973 5821641.62328764</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1671">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392050.35057375 5820293.1786321</gml:lowerCorner>
+          <gml:upperCorner>392050.35057375 5820293.1786321</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1671</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Karl-Liebknecht-Straße (Mitte)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1671.geom">
+          <gml:pos>392050.35057375 5820293.1786321</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1672">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>383385.35066994 5819178.38402235</gml:lowerCorner>
+          <gml:upperCorner>383385.35066994 5819178.38402235</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1672</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Messedamm (Westend)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Westend</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1672.geom">
+          <gml:pos>383385.35066994 5819178.38402235</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1673">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>400486.91115567 5808872.94384489</gml:lowerCorner>
+          <gml:upperCorner>400486.91115567 5808872.94384489</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1673</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Rudower Straße (Altglienicke)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Altglienicke</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1673.geom">
+          <gml:pos>400486.91115567 5808872.94384489</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1674">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>401373.98312171 5806725.98373142</gml:lowerCorner>
+          <gml:upperCorner>401373.98312171 5806725.98373142</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1674</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>B96a Am Seegraben (Treptow-Zubringer)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Treptow-Zubringer</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1674.geom">
+          <gml:pos>401373.98312171 5806725.98373142</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1675">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390394.35660269 5819488.26357671</gml:lowerCorner>
+          <gml:upperCorner>390394.35660269 5819488.26357671</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1675</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Französische Str.</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1675.geom">
+          <gml:pos>390394.35660269 5819488.26357671</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1676">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>396690.62720178 5817938.3898671</gml:lowerCorner>
+          <gml:upperCorner>396690.62720178 5817938.3898671</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1676</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Nöldnerstraße (Rummelsburg)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Rummelsburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1676.geom">
+          <gml:pos>396690.62720178 5817938.3898671</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1677">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386631.67743525 5818018.7662475</gml:lowerCorner>
+          <gml:upperCorner>386631.67743525 5818018.7662475</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1677</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Lietzenburger Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Charlottenburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1677.geom">
+          <gml:pos>386631.67743525 5818018.7662475</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1678">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>384556.86055184 5810488.9871976</gml:lowerCorner>
+          <gml:upperCorner>384556.86055184 5810488.9871976</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1678</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Finckensteinallee (Lichterfelde)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Lichterfelde</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1678.geom">
+          <gml:pos>384556.86055184 5810488.9871976</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1679">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394300.33467789 5823539.48476044</gml:lowerCorner>
+          <gml:upperCorner>394300.33467789 5823539.48476044</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1679</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Langhansstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Weißensee</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1679.geom">
+          <gml:pos>394300.33467789 5823539.48476044</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1680">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393923.10585011 5823484.77969026</gml:lowerCorner>
+          <gml:upperCorner>393923.10585011 5823484.77969026</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1680</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Lehderstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Weißensee</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1680.geom">
+          <gml:pos>393923.10585011 5823484.77969026</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1681">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>395521.83268209 5818599.98032466</gml:lowerCorner>
+          <gml:upperCorner>395521.83268209 5818599.98032466</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1681</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Simplonstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Friedrichshain</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1681.geom">
+          <gml:pos>395521.83268209 5818599.98032466</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1682">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>391313.78044787 5821911.07195965</gml:lowerCorner>
+          <gml:upperCorner>391313.78044787 5821911.07195965</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1682</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Brunnenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1682.geom">
+          <gml:pos>391313.78044787 5821911.07195965</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1683">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>391819.69939695 5819404.50129699</gml:lowerCorner>
+          <gml:upperCorner>391819.69939695 5819404.50129699</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1683</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Fischerinsel</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1683.geom">
+          <gml:pos>391819.69939695 5819404.50129699</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1684">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>397220.96104309 5813899.7900886</gml:lowerCorner>
+          <gml:upperCorner>397220.96104309 5813899.7900886</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1684</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Kiefholzstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Baumschulenweg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1684.geom">
+          <gml:pos>397220.96104309 5813899.7900886</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1685">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389400.9067772 5819717.90361665</gml:lowerCorner>
+          <gml:upperCorner>389400.9067772 5819717.90361665</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1685</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Tiergartentunnel</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Tiergarten</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1685.geom">
+          <gml:pos>389400.9067772 5819717.90361665</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1686">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>378018.6742049 5823521.20129078</gml:lowerCorner>
+          <gml:upperCorner>378018.6742049 5823521.20129078</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1686</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schönwalder Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Spandau</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1686.geom">
+          <gml:pos>378018.6742049 5823521.20129078</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1687">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>376422.56175411 5824185.81672406</gml:lowerCorner>
+          <gml:upperCorner>376422.56175411 5824185.81672406</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1687</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Pionierstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Falkenhagener Feld</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1687.geom">
+          <gml:pos>376422.56175411 5824185.81672406</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1688">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386917.88850576 5818558.75856488</gml:lowerCorner>
+          <gml:upperCorner>386917.88850576 5818558.75856488</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1688</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Kantstraße, Budapesterstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Charlottenburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1688.geom">
+          <gml:pos>386917.88850576 5818558.75856488</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1689">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390941.38037919 5814021.64353942</gml:lowerCorner>
+          <gml:upperCorner>390941.38037919 5814021.64353942</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1689</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Ringbahnstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Tempelhof</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1689.geom">
+          <gml:pos>390941.38037919 5814021.64353942</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1690">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>400527.94001441 5820378.24503291</gml:lowerCorner>
+          <gml:upperCorner>400527.94001441 5820378.24503291</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1690</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Marzahner Chaussee</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Marzahn</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1690.geom">
+          <gml:pos>400527.94001441 5820378.24503291</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1691">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>396507.35225459 5817964.06595926</gml:lowerCorner>
+          <gml:upperCorner>396507.35225459 5817964.06595926</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1691</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Karlshorster Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Lichtenberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1691.geom">
+          <gml:pos>396507.35225459 5817964.06595926</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1692">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389868.43418278 5827464.45047375</gml:lowerCorner>
+          <gml:upperCorner>389868.43418278 5827464.45047375</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1692</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schönholzer Weg</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Rosenthal</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1692.geom">
+          <gml:pos>389868.43418278 5827464.45047375</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1693">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>396520.50918763 5817979.36618722</gml:lowerCorner>
+          <gml:upperCorner>396520.50918763 5817979.36618722</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1693</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Karlshorster Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Lichtenberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1693.geom">
+          <gml:pos>396520.50918763 5817979.36618722</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1694">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389979.29974693 5819370.82357064</gml:lowerCorner>
+          <gml:upperCorner>389979.29974693 5819370.82357064</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1694</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Hannah-Arendt-Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1694.geom">
+          <gml:pos>389979.29974693 5819370.82357064</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1695">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>384421.41588984 5831762.74232493</gml:lowerCorner>
+          <gml:upperCorner>384421.41588984 5831762.74232493</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1695</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Frohnauer Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Hermsdorf</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1695.geom">
+          <gml:pos>384421.41588984 5831762.74232493</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1696">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>388266.39295225 5822236.63266277</gml:lowerCorner>
+          <gml:upperCorner>388266.39295225 5822236.63266277</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1696</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Friedrich-Krause-Ufer</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1696.geom">
+          <gml:pos>388266.39295225 5822236.63266277</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1697">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>377575.05596751 5821291.60358803</gml:lowerCorner>
+          <gml:upperCorner>377575.05596751 5821291.60358803</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1697</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Pichelsdorfer Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Wilhelmstadt</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1697.geom">
+          <gml:pos>377575.05596751 5821291.60358803</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1698">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386879.93975095 5812558.13671489</gml:lowerCorner>
+          <gml:upperCorner>386879.93975095 5812558.13671489</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1698</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Albrechtstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Steglitz</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1698.geom">
+          <gml:pos>386879.93975095 5812558.13671489</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1699">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386316.34873085 5812230.08508923</gml:lowerCorner>
+          <gml:upperCorner>386316.34873085 5812230.08508923</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1699</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Klingsorstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Steglitz</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1699.geom">
+          <gml:pos>386316.34873085 5812230.08508923</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1700">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>399720.28921878 5810278.37104232</gml:lowerCorner>
+          <gml:upperCorner>399720.28921878 5810278.37104232</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1700</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Karl-Ziegler-Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Adlershof</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1700.geom">
+          <gml:pos>399720.28921878 5810278.37104232</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1701">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>395280.97508264 5816844.12053265</gml:lowerCorner>
+          <gml:upperCorner>395280.97508264 5816844.12053265</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1701</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Am Treptower Park</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Alt-Treptow</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1701.geom">
+          <gml:pos>395280.97508264 5816844.12053265</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1702">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>400181.65489874 5816260.65632913</gml:lowerCorner>
+          <gml:upperCorner>400181.65489874 5816260.65632913</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1702</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Waldowallee</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Karlshorst</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1702.geom">
+          <gml:pos>400181.65489874 5816260.65632913</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1703">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390063.55835715 5825366.46386873</gml:lowerCorner>
+          <gml:upperCorner>390063.55835715 5825366.46386873</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1703</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schwartzstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Reinickendorf</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1703.geom">
+          <gml:pos>390063.55835715 5825366.46386873</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1704">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392127.74284384 5819646.63140368</gml:lowerCorner>
+          <gml:upperCorner>392127.74284384 5819646.63140368</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1704</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Stralauer Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1704.geom">
+          <gml:pos>392127.74284384 5819646.63140368</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1705">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389863.72141714 5808355.18329509</gml:lowerCorner>
+          <gml:upperCorner>389863.72141714 5808355.18329509</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1705</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Säntisstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Marienfelde</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1705.geom">
+          <gml:pos>389863.72141714 5808355.18329509</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1706">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393716.98868109 5821836.37725297</gml:lowerCorner>
+          <gml:upperCorner>393716.98868109 5821836.37725297</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1706</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Greifswalder Straße/Danziger</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Prenzlauer Berg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1706.geom">
+          <gml:pos>393716.98868109 5821836.37725297</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1707">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393617.47562685 5831562.36148365</gml:lowerCorner>
+          <gml:upperCorner>393617.47562685 5831562.36148365</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1707</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>AS Bucher Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Pankow-Zubringer</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1707.geom">
+          <gml:pos>393617.47562685 5831562.36148365</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1708">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>388093.60450619 5820863.50153447</gml:lowerCorner>
+          <gml:upperCorner>388093.60450619 5820863.50153447</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1708</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Turmstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1708.geom">
+          <gml:pos>388093.60450619 5820863.50153447</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1709">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393788.26156483 5808680.75945163</gml:lowerCorner>
+          <gml:upperCorner>393788.26156483 5808680.75945163</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1709</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Buckower Damm</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Buckow</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1709.geom">
+          <gml:pos>393788.26156483 5808680.75945163</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1710">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>387801.76961425 5821305.17083646</gml:lowerCorner>
+          <gml:upperCorner>387801.76961425 5821305.17083646</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1710</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Perleberger Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1710.geom">
+          <gml:pos>387801.76961425 5821305.17083646</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1711">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>387333.6312902 5820830.07517335</gml:lowerCorner>
+          <gml:upperCorner>387333.6312902 5820830.07517335</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1711</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Thusnelda-Allee</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1711.geom">
+          <gml:pos>387333.6312902 5820830.07517335</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1712">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394670.45211363 5830594.45317864</gml:lowerCorner>
+          <gml:upperCorner>394670.45211363 5830594.45317864</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1712</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Bucher Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Französisch-Buchholz</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1712.geom">
+          <gml:pos>394670.45211363 5830594.45317864</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1714">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>385398.3936855 5812320.52922432</gml:lowerCorner>
+          <gml:upperCorner>385398.3936855 5812320.52922432</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1714</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Gardeschützenweg</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Lichterfelde</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1714.geom">
+          <gml:pos>385398.3936855 5812320.52922432</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1715">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>388983.11214805 5820653.9681671</gml:lowerCorner>
+          <gml:upperCorner>388983.11214805 5820653.9681671</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1715</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Invalidenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1715.geom">
+          <gml:pos>388983.11214805 5820653.9681671</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1716">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>383547.14211068 5810557.88637899</gml:lowerCorner>
+          <gml:upperCorner>383547.14211068 5810557.88637899</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1716</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Ringstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Lichterfeld</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1716.geom">
+          <gml:pos>383547.14211068 5810557.88637899</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1717">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389983.77698247 5807994.63461684</gml:lowerCorner>
+          <gml:upperCorner>389983.77698247 5807994.63461684</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1717</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Buckower Chaussee</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Marienfelde</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1717.geom">
+          <gml:pos>389983.77698247 5807994.63461684</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1718">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394444.76900021 5815510.86453221</gml:lowerCorner>
+          <gml:upperCorner>394444.76900021 5815510.86453221</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1718</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Roseggerstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1718.geom">
+          <gml:pos>394444.76900021 5815510.86453221</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1719">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394546.10436942 5823701.20347734</gml:lowerCorner>
+          <gml:upperCorner>394546.10436942 5823701.20347734</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1719</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Roelckestraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Weißensee</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1719.geom">
+          <gml:pos>394546.10436942 5823701.20347734</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1720">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386757.72718439 5819493.86878045</gml:lowerCorner>
+          <gml:upperCorner>386757.72718439 5819493.86878045</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1720</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Salzufer</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Charlottenburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1720.geom">
+          <gml:pos>386757.72718439 5819493.86878045</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1721">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393582.55463955 5815774.40927427</gml:lowerCorner>
+          <gml:upperCorner>393582.55463955 5815774.40927427</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1721</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Flughafenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1721.geom">
+          <gml:pos>393582.55463955 5815774.40927427</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1722">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>379308.12284313 5830519.59515741</gml:lowerCorner>
+          <gml:upperCorner>379308.12284313 5830519.59515741</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1722</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Hennigsdorfer Straße/Heiligenseestraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Heiligensee</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1722.geom">
+          <gml:pos>379308.12284313 5830519.59515741</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1723">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392373.27442285 5823368.63079519</gml:lowerCorner>
+          <gml:upperCorner>392373.27442285 5823368.63079519</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1723</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Dänenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Pankow</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1723.geom">
+          <gml:pos>392373.27442285 5823368.63079519</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1724">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393559.74277127 5827051.03766191</gml:lowerCorner>
+          <gml:upperCorner>393559.74277127 5827051.03766191</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1724</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>A114</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Pankow-Zubringer</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1724.geom">
+          <gml:pos>393559.74277127 5827051.03766191</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1725">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>398741.98722795 5812866.85728555</gml:lowerCorner>
+          <gml:upperCorner>398741.98722795 5812866.85728555</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1725</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Schnellerstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Niederschöneweide</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1725.geom">
+          <gml:pos>398741.98722795 5812866.85728555</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1726">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390354.59836973 5817611.02510008</gml:lowerCorner>
+          <gml:upperCorner>390354.59836973 5817611.02510008</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1726</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Großbeerenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1726.geom">
+          <gml:pos>390354.59836973 5817611.02510008</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1727">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394878.40930525 5814533.4807116</gml:lowerCorner>
+          <gml:upperCorner>394878.40930525 5814533.4807116</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1727</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Niemetzstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1727.geom">
+          <gml:pos>394878.40930525 5814533.4807116</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1728">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>388710.06406395 5822340.69568808</gml:lowerCorner>
+          <gml:upperCorner>388710.06406395 5822340.69568808</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1728</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Tegeler Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Wedding</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1728.geom">
+          <gml:pos>388710.06406395 5822340.69568808</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1729">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>384739.3670762 5832685.33190743</gml:lowerCorner>
+          <gml:upperCorner>384739.3670762 5832685.33190743</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1729</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Fürstendamm</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Frohnau</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1729.geom">
+          <gml:pos>384739.3670762 5832685.33190743</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1730">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>391706.09099568 5818334.09136599</gml:lowerCorner>
+          <gml:upperCorner>391706.09099568 5818334.09136599</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1730</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Alexandrinenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1730.geom">
+          <gml:pos>391706.09099568 5818334.09136599</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1731">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389989.0286215 5824666.75369881</gml:lowerCorner>
+          <gml:upperCorner>389989.0286215 5824666.75369881</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1731</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Provinzstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Reinickendorf</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1731.geom">
+          <gml:pos>389989.0286215 5824666.75369881</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1732">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>391919.69247193 5818083.7907498</gml:lowerCorner>
+          <gml:upperCorner>391919.69247193 5818083.7907498</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1732</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Ritterstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1732.geom">
+          <gml:pos>391919.69247193 5818083.7907498</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1733">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>388668.67576129 5820538.36706515</gml:lowerCorner>
+          <gml:upperCorner>388668.67576129 5820538.36706515</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1733</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Alt-Moabit</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1733.geom">
+          <gml:pos>388668.67576129 5820538.36706515</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1734">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390483.96227591 5817482.83569892</gml:lowerCorner>
+          <gml:upperCorner>390483.96227591 5817482.83569892</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1734</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Obentrautstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1734.geom">
+          <gml:pos>390483.96227591 5817482.83569892</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1735">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>396746.05117812 5814645.48300428</gml:lowerCorner>
+          <gml:upperCorner>396746.05117812 5814645.48300428</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1735</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Eichbuschallee</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Plänterwald</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1735.geom">
+          <gml:pos>396746.05117812 5814645.48300428</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1736">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>388641.89101961 5822433.82890533</gml:lowerCorner>
+          <gml:upperCorner>388641.89101961 5822433.82890533</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1736</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Tegeler Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Wedding</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1736.geom">
+          <gml:pos>388641.89101961 5822433.82890533</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1737">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389902.00927697 5823786.49897362</gml:lowerCorner>
+          <gml:upperCorner>389902.00927697 5823786.49897362</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1737</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Uferstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Gesundbrunnen</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1737.geom">
+          <gml:pos>389902.00927697 5823786.49897362</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1738">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>387379.11126911 5820877.54677114</gml:lowerCorner>
+          <gml:upperCorner>387379.11126911 5820877.54677114</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1738</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Turmstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1738.geom">
+          <gml:pos>387379.11126911 5820877.54677114</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1739">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>385328.96958672 5820341.12823422</gml:lowerCorner>
+          <gml:upperCorner>385328.96958672 5820341.12823422</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1739</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Am Spreebord</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Charlottenburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1739.geom">
+          <gml:pos>385328.96958672 5820341.12823422</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1740">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>387934.50381013 5820860.01854909</gml:lowerCorner>
+          <gml:upperCorner>387934.50381013 5820860.01854909</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1740</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Turmstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1740.geom">
+          <gml:pos>387934.50381013 5820860.01854909</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1741">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393288.72838003 5815390.33384641</gml:lowerCorner>
+          <gml:upperCorner>393288.72838003 5815390.33384641</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1741</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Mainzer Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1741.geom">
+          <gml:pos>393288.72838003 5815390.33384641</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1742">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>398000.22522985 5832923.00507178</gml:lowerCorner>
+          <gml:upperCorner>398000.22522985 5832923.00507178</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1742</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Wiltbergstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Buch</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1742.geom">
+          <gml:pos>398000.22522985 5832923.00507178</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1743">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>398621.21447763 5813756.05537678</gml:lowerCorner>
+          <gml:upperCorner>398621.21447763 5813756.05537678</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1743</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Nalepastraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Oberschöneweide</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1743.geom">
+          <gml:pos>398621.21447763 5813756.05537678</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1744">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389472.27799647 5822343.45216937</gml:lowerCorner>
+          <gml:upperCorner>389472.27799647 5822343.45216937</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1744</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Sellerstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Wedding</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1744.geom">
+          <gml:pos>389472.27799647 5822343.45216937</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1745">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393869.61264406 5817893.5147874</gml:lowerCorner>
+          <gml:upperCorner>393869.61264406 5817893.5147874</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1745</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Wrangelstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1745.geom">
+          <gml:pos>393869.61264406 5817893.5147874</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1746">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390305.56382786 5821388.30467416</gml:lowerCorner>
+          <gml:upperCorner>390305.56382786 5821388.30467416</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1746</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Zinnowitzer Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1746.geom">
+          <gml:pos>390305.56382786 5821388.30467416</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1747">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392927.3744858 5817783.70706596</gml:lowerCorner>
+          <gml:upperCorner>392927.3744858 5817783.70706596</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1747</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Mariannenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1747.geom">
+          <gml:pos>392927.3744858 5817783.70706596</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1748">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>401073.44681115 5810336.39134563</gml:lowerCorner>
+          <gml:upperCorner>401073.44681115 5810336.39134563</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1748</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Radickestraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Adlershof</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1748.geom">
+          <gml:pos>401073.44681115 5810336.39134563</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1749">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>399258.75570752 5816214.43758818</gml:lowerCorner>
+          <gml:upperCorner>399258.75570752 5816214.43758818</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1749</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Wallensteinstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Karlshorst</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1749.geom">
+          <gml:pos>399258.75570752 5816214.43758818</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1750">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>382613.1424262 5812894.10974547</gml:lowerCorner>
+          <gml:upperCorner>382613.1424262 5812894.10974547</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1750</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Clayallee</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Dahlem</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1750.geom">
+          <gml:pos>382613.1424262 5812894.10974547</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1751">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>399042.47252206 5813830.60047677</gml:lowerCorner>
+          <gml:upperCorner>399042.47252206 5813830.60047677</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1751</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Edisonstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Oberschöneweide</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1751.geom">
+          <gml:pos>399042.47252206 5813830.60047677</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1752">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389453.78986459 5809641.82828823</gml:lowerCorner>
+          <gml:upperCorner>389453.78986459 5809641.82828823</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1752</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Großbeerenstraße/Marienfelder Allee</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Marienfelde</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1752.geom">
+          <gml:pos>389453.78986459 5809641.82828823</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1753">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>391663.39562369 5805264.07709618</gml:lowerCorner>
+          <gml:upperCorner>391663.39562369 5805264.07709618</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1753</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Goltzstraße - Bahnhofstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Schöneberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1753.geom">
+          <gml:pos>391663.39562369 5805264.07709618</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1754">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>388948.39706443 5820658.53881449</gml:lowerCorner>
+          <gml:upperCorner>388948.39706443 5820658.53881449</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1754</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Invalidenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1754.geom">
+          <gml:pos>388948.39706443 5820658.53881449</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1755">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>384224.12947284 5833810.38022762</gml:lowerCorner>
+          <gml:upperCorner>384224.12947284 5833810.38022762</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1755</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schönfließer Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Frohnau</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1755.geom">
+          <gml:pos>384224.12947284 5833810.38022762</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1756">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>387499.48003159 5820814.02102853</gml:lowerCorner>
+          <gml:upperCorner>387499.48003159 5820814.02102853</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1756</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Alt-Moabit</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1756.geom">
+          <gml:pos>387499.48003159 5820814.02102853</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1757">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>397600.36462469 5814416.8315731</gml:lowerCorner>
+          <gml:upperCorner>397600.36462469 5814416.8315731</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1757</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Baumschulenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Baumschulenweg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1757.geom">
+          <gml:pos>397600.36462469 5814416.8315731</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1758">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393523.54934815 5812556.32863127</gml:lowerCorner>
+          <gml:upperCorner>393523.54934815 5812556.32863127</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1758</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Gradestraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Britz</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1758.geom">
+          <gml:pos>393523.54934815 5812556.32863127</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1759">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389702.08890668 5818260.16730768</gml:lowerCorner>
+          <gml:upperCorner>389702.08890668 5818260.16730768</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1759</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Köthener Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1759.geom">
+          <gml:pos>389702.08890668 5818260.16730768</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1760">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>400002.36361289 5809237.83244569</gml:lowerCorner>
+          <gml:upperCorner>400002.36361289 5809237.83244569</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1760</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Semmelweisstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Altglienicke</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1760.geom">
+          <gml:pos>400002.36361289 5809237.83244569</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1761">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>385215.82650109 5825596.50105372</gml:lowerCorner>
+          <gml:upperCorner>385215.82650109 5825596.50105372</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1761</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>A111</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Hamburg-Zubringer</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1761.geom">
+          <gml:pos>385215.82650109 5825596.50105372</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1762">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>378363.62140586 5824371.08746415</gml:lowerCorner>
+          <gml:upperCorner>378363.62140586 5824371.08746415</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1762</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Hohenzollernring</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Hakenfelde</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1762.geom">
+          <gml:pos>378363.62140586 5824371.08746415</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1763">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>377515.24465107 5824893.06011089</gml:lowerCorner>
+          <gml:upperCorner>377515.24465107 5824893.06011089</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1763</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Hubertusstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Spandau</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1763.geom">
+          <gml:pos>377515.24465107 5824893.06011089</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1764">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>389463.79505971 5820591.23821924</gml:lowerCorner>
+          <gml:upperCorner>389463.79505971 5820591.23821924</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1764</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Friedrich-List-Ufer</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1764.geom">
+          <gml:pos>389463.79505971 5820591.23821924</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1765">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390410.34379727 5816334.32870023</gml:lowerCorner>
+          <gml:upperCorner>390410.34379727 5816334.32870023</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1765</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Mehringdamm</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1765.geom">
+          <gml:pos>390410.34379727 5816334.32870023</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1766">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>387609.59989056 5822358.2773621</gml:lowerCorner>
+          <gml:upperCorner>387609.59989056 5822358.2773621</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1766</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Nordufer</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Wedding</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1766.geom">
+          <gml:pos>387609.59989056 5822358.2773621</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1767">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>396125.73303725 5817941.76232638</gml:lowerCorner>
+          <gml:upperCorner>396125.73303725 5817941.76232638</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1767</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>An der Mole</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Rummelsburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1767.geom">
+          <gml:pos>396125.73303725 5817941.76232638</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1768">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>391586.14279056 5817172.13348285</gml:lowerCorner>
+          <gml:upperCorner>391586.14279056 5817172.13348285</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1768</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Baerwaldstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1768.geom">
+          <gml:pos>391586.14279056 5817172.13348285</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1769">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>404393.30712422 5821968.25068646</gml:lowerCorner>
+          <gml:upperCorner>404393.30712422 5821968.25068646</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1769</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Eisenacher Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Marzahn</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1769.geom">
+          <gml:pos>404393.30712422 5821968.25068646</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1770">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394005.31696435 5820056.85828901</gml:lowerCorner>
+          <gml:upperCorner>394005.31696435 5820056.85828901</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1770</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Friedenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Friedrichshain</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1770.geom">
+          <gml:pos>394005.31696435 5820056.85828901</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1771">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>385926.43394863 5815631.37149904</gml:lowerCorner>
+          <gml:upperCorner>385926.43394863 5815631.37149904</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1771</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Detmolder Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Wilmersdorf</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1771.geom">
+          <gml:pos>385926.43394863 5815631.37149904</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1772">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394005.31696435 5820056.85828901</gml:lowerCorner>
+          <gml:upperCorner>394005.31696435 5820056.85828901</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1772</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Friedenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Friedrichshain</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1772.geom">
+          <gml:pos>394005.31696435 5820056.85828901</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1773">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390411.27106993 5821426.7759206</gml:lowerCorner>
+          <gml:upperCorner>390411.27106993 5821426.7759206</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1773</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Zinnowitzer Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1773.geom">
+          <gml:pos>390411.27106993 5821426.7759206</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1774">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>379679.58463884 5814144.75371782</gml:lowerCorner>
+          <gml:upperCorner>379679.58463884 5814144.75371782</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1774</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Kronprinzessinnenweg</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Wannsee</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1774.geom">
+          <gml:pos>379679.58463884 5814144.75371782</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1775">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>388391.26826432 5807785.27328392</gml:lowerCorner>
+          <gml:upperCorner>388391.26826432 5807785.27328392</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1775</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Marienfelder Allee</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Marienfelde</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1775.geom">
+          <gml:pos>388391.26826432 5807785.27328392</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1776">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>395332.78654671 5824045.2800023</gml:lowerCorner>
+          <gml:upperCorner>395332.78654671 5824045.2800023</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1776</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schönstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Weißensee</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1776.geom">
+          <gml:pos>395332.78654671 5824045.2800023</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1777">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>384447.3955527 5833805.08389043</gml:lowerCorner>
+          <gml:upperCorner>384447.3955527 5833805.08389043</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1777</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Schönfließer Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Frohnau</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1777.geom">
+          <gml:pos>384447.3955527 5833805.08389043</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1778">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>397263.06615532 5820043.07247089</gml:lowerCorner>
+          <gml:upperCorner>397263.06615532 5820043.07247089</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1778</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Ruschestraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Lichtenberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1778.geom">
+          <gml:pos>397263.06615532 5820043.07247089</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1779">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>388120.25073564 5821545.36683649</gml:lowerCorner>
+          <gml:upperCorner>388120.25073564 5821545.36683649</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1779</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Perleberger Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1779.geom">
+          <gml:pos>388120.25073564 5821545.36683649</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1780">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>400853.26780881 5822038.68207485</gml:lowerCorner>
+          <gml:upperCorner>400853.26780881 5822038.68207485</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1780</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Landsberger Allee</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Marzahn</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1780.geom">
+          <gml:pos>400853.26780881 5822038.68207485</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1781">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392480.12405434 5817675.43566789</gml:lowerCorner>
+          <gml:upperCorner>392480.12405434 5817675.43566789</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1781</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Skalitzer Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1781.geom">
+          <gml:pos>392480.12405434 5817675.43566789</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1782">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>385660.02997096 5821390.77942165</gml:lowerCorner>
+          <gml:upperCorner>385660.02997096 5821390.77942165</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1782</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Neues Ufer</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Moabit</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1782.geom">
+          <gml:pos>385660.02997096 5821390.77942165</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1783">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>395674.85335063 5817313.63757197</gml:lowerCorner>
+          <gml:upperCorner>395674.85335063 5817313.63757197</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1783</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Elsenbrücke</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Alt-Treptow</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1783.geom">
+          <gml:pos>395674.85335063 5817313.63757197</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1784">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390440.62943788 5819392.9769646</gml:lowerCorner>
+          <gml:upperCorner>390440.62943788 5819392.9769646</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1784</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Jägerstr.</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1784.geom">
+          <gml:pos>390440.62943788 5819392.9769646</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1785">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390382.97213938 5819546.82740036</gml:lowerCorner>
+          <gml:upperCorner>390382.97213938 5819546.82740036</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1785</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Mauerstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1785.geom">
+          <gml:pos>390382.97213938 5819546.82740036</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1786">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390404.2777676 5819434.07232959</gml:lowerCorner>
+          <gml:upperCorner>390404.2777676 5819434.07232959</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1786</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Mauerstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1786.geom">
+          <gml:pos>390404.2777676 5819434.07232959</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1787">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390285.02427042 5824559.95383412</gml:lowerCorner>
+          <gml:upperCorner>390285.02427042 5824559.95383412</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1787</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Soldiner Str.</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Gesundbrunnen</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1787.geom">
+          <gml:pos>390285.02427042 5824559.95383412</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1788">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>379669.16466292 5831457.74288866</gml:lowerCorner>
+          <gml:upperCorner>379669.16466292 5831457.74288866</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1788</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Henningsdorfer Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Heiligensee</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1788.geom">
+          <gml:pos>379669.16466292 5831457.74288866</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1789">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393738.78733079 5815676.21671143</gml:lowerCorner>
+          <gml:upperCorner>393738.78733079 5815676.21671143</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1789</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Karl-Marx-Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1789.geom">
+          <gml:pos>393738.78733079 5815676.21671143</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1790">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>396329.22709544 5830495.62317762</gml:lowerCorner>
+          <gml:upperCorner>396329.22709544 5830495.62317762</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1790</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Pankgrafenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Karow</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1790.geom">
+          <gml:pos>396329.22709544 5830495.62317762</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1791">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>395122.15541222 5814339.54668011</gml:lowerCorner>
+          <gml:upperCorner>395122.15541222 5814339.54668011</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1791</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Neuköllnische Allee</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Neukölln</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1791.geom">
+          <gml:pos>395122.15541222 5814339.54668011</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1792">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390060.84533643 5819462.02044893</gml:lowerCorner>
+          <gml:upperCorner>390060.84533643 5819462.02044893</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1792</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Cora-Berliner-Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Mitte</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1792.geom">
+          <gml:pos>390060.84533643 5819462.02044893</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1793">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>392021.62314187 5818040.817066</gml:lowerCorner>
+          <gml:upperCorner>392021.62314187 5818040.817066</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1793</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Prinzenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Kreuzberg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1793.geom">
+          <gml:pos>392021.62314187 5818040.817066</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1794">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390139.14777648 5829459.2588764</gml:lowerCorner>
+          <gml:upperCorner>390139.14777648 5829459.2588764</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1794</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Mönchmühler Straße/Hauptstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Rosenthal</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1794.geom">
+          <gml:pos>390139.14777648 5829459.2588764</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1795">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390693.60341739 5830898.88965654</gml:lowerCorner>
+          <gml:upperCorner>390693.60341739 5830898.88965654</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1795</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Mönchmühler Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Blankenfelde</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1795.geom">
+          <gml:pos>390693.60341739 5830898.88965654</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1796">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390656.80709952 5823722.94349348</gml:lowerCorner>
+          <gml:upperCorner>390656.80709952 5823722.94349348</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1796</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Grüntaler Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Gesundbrunnen</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1796.geom">
+          <gml:pos>390656.80709952 5823722.94349348</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1797">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>394546.59613492 5823711.43011763</gml:lowerCorner>
+          <gml:upperCorner>394546.59613492 5823711.43011763</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1797</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Roelckestraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Weißensee</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1797.geom">
+          <gml:pos>394546.59613492 5823711.43011763</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1798">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>402232.37351025 5824487.88833379</gml:lowerCorner>
+          <gml:upperCorner>402232.37351025 5824487.88833379</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1798</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Märkische Allee (Marzahn)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Marzahn</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1798.geom">
+          <gml:pos>402232.37351025 5824487.88833379</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1799">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>393615.19392147 5811888.26207308</gml:lowerCorner>
+          <gml:upperCorner>393615.19392147 5811888.26207308</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1799</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Britzer Damm (Britz)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Britz</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1799.geom">
+          <gml:pos>393615.19392147 5811888.26207308</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1800">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>384451.48635132 5819245.04087541</gml:lowerCorner>
+          <gml:upperCorner>384451.48635132 5819245.04087541</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1800</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Kaiserdamm</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Charlottenburg</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1800.geom">
+          <gml:pos>384451.48635132 5819245.04087541</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1801">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>398737.43163762 5812879.96975066</gml:lowerCorner>
+          <gml:upperCorner>398737.43163762 5812879.96975066</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1801</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Brückenstraße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Niederschöneweide</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1801.geom">
+          <gml:pos>398737.43163762 5812879.96975066</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1802">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>400042.78088319 5821220.64386294</gml:lowerCorner>
+          <gml:upperCorner>400042.78088319 5821220.64386294</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1802</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Pyramidenring</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Marzahn</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1802.geom">
+          <gml:pos>400042.78088319 5821220.64386294</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1803">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>386161.61077955 5815225.30095622</gml:lowerCorner>
+          <gml:upperCorner>386161.61077955 5815225.30095622</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1803</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	Südwestkorso</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Friedenau</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1803.geom">
+          <gml:pos>386161.61077955 5815225.30095622</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1804">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>390792.35052587 5805283.33002431</gml:lowerCorner>
+          <gml:upperCorner>390792.35052587 5805283.33002431</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1804</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Wünsdorfer Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Lichtenrade</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1804.geom">
+          <gml:pos>390792.35052587 5805283.33002431</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1962">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>402448.22854302 5819060.22244132</gml:lowerCorner>
+          <gml:upperCorner>402448.22854302 5819060.22244132</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1962</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Blumberger Damm</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Biesdorf</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1962.geom">
+          <gml:pos>402448.22854302 5819060.22244132</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1960">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>384962.78365864 5814705.3294238</gml:lowerCorner>
+          <gml:upperCorner>384962.78365864 5814705.3294238</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1960</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>Tunnel Schlangenbader Straße (Schmargendorf, ehem. A104)</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Schmargendorf</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1960.geom">
+          <gml:pos>384962.78365864 5814705.3294238</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+  <wfs:member>
+    <verkehrsmengen_2023:dtvw2023baustellen gml:id="dtvw2023baustellen.1713">
+      <gml:boundedBy>
+        <gml:Envelope srsName="urn:ogc:def:crs:EPSG::25833">
+          <gml:lowerCorner>401122.90806925 5806454.30530495</gml:lowerCorner>
+          <gml:upperCorner>401122.90806925 5806454.30530495</gml:upperCorner>
+        </gml:Envelope>
+      </gml:boundedBy>
+      <verkehrsmengen_2023:id>1713</verkehrsmengen_2023:id>
+      <verkehrsmengen_2023:strasse>	A114 Bucher Straße</verkehrsmengen_2023:strasse>
+      <verkehrsmengen_2023:ortsteil>Bohnsdorf</verkehrsmengen_2023:ortsteil>
+      <verkehrsmengen_2023:geom>
+        <gml:Point srsName="urn:ogc:def:crs:EPSG::25833" gml:id="dtvw2023baustellen.1713.geom">
+          <gml:pos>401122.90806925 5806454.30530495</gml:pos>
+        </gml:Point>
+      </verkehrsmengen_2023:geom>
+    </verkehrsmengen_2023:dtvw2023baustellen>
+  </wfs:member>
+</wfs:FeatureCollection>

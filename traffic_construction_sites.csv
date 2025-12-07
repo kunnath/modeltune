@@ -1,0 +1,205 @@
+site_id,street_name,district,street_type,x_coord,y_coord
+1603,Schwiebusser Straße (Kreuzberg),Kreuzberg,Straße,390430.04043326,5816309.85286784
+1604,Richterstraße (Bohnsdorf),Bohnsdorf,Straße,402880.60894575,5807708.85125786
+1605,Roßstraßenbrücke (Mitte),Mitte,Straße,391970.94823282,5819228.79761573
+1606,Karl-Marx-Straße (Neukölln),Neukölln,Straße,393562.05274159,5815865.87603014
+1607,Grunerstr. (Mitte),Mitte,Straße,392065.24846709,5819771.07887439
+1608,Schräger Weg (Karow),Karow,Weg,396165.39568185,5830078.93376104
+1609,Glinkastraße,Mitte,Straße,390484.58817014,5819597.9673281
+1610,Berliner Straße (Wilmersdorf),Wilmersdorf,Straße,385505.77981916,5816521.5110718
+1611,Kreuzbergstraße (Kreuzberg),Kreuzberg,Straße,389581.70349992,5816575.24964959
+1612,Müller-Breslau-Straße (Charlottenburg),Charlottenburg,Straße,386699.40223312,5819390.83696124
+1613,Bahnhofstraße (Lichtenrade),Lichtenrade,Straße,390892.66851773,5805257.06967374
+1614,Gärtnerstraße (Friedrichshain),Friedrichshain,Straße,395527.98355322,5818901.17560357
+1615,Wrangelstraße (Kreuzberg),Kreuzberg,Straße,393964.53390231,5817830.14836916
+1616,Schlesisches Tor (Kreuzberg),Kreuzberg,Straße,394256.53128416,5817905.4031395
+1617,Gitschiner Straße (Kreuzberg),Kreuzberg,Straße,391940.30129303,5817669.50338812
+1618,Badstraße (Gesundbrunnen),Gesundbrunnen,Straße,390338.77295847,5823651.05557753
+1619,Kaiserin-Augusta-Allee (Moabit),Moabit,Allee,385748.76683972,5820857.2297434
+1620,Skalitzer Straße (Kreuzberg),Kreuzberg,Straße,393252.60551573,5817718.86139579
+1621,Müggelheimer Straße (Köpenick),Köpenick,Straße,403148.15822426,5811429.62883579
+1622,Mühlenstraße (Friedrichshain),Friedrichshain,Straße,394004.50245613,5818466.10345898
+1623,Alexanderstraße (Mitte),Mitte,Straße,392649.27397567,5819834.57857954
+1624,Elsenstraße (Alt-Treptow),Alt-Treptow,Straße,395328.85560558,5816888.49722406
+1625,Nestorstraße (Halensee),Halensee,Straße,384565.20480544,5817422.79713765
+1626,Sterndamm (Niederschöneweide),Niederschöneweide,Straße,398897.73732096,5812676.60380159
+1627,Feuerbachstraße (Steglitz),Steglitz,Straße,386493.29673927,5813886.71652442
+1628,Sonnenallee (Neukölln),Neukölln,Straße,393359.53989379,5816306.46898257
+1629,Großbeerenstraße/Marienfelder Allee (Marienfelde),Marienfelde,Allee,389443.65396401,5809626.70025579
+1630,Tempelhofer Ufer (Kreuzberg),Kreuzberg,Straße,389789.45747802,5818047.66536291
+1631,Provinzstraße (Reinickendorf),Reinickendorf,Straße,390169.05739451,5825658.86862929
+1632,Friedrichstraße (Mitte),Mitte,Straße,390695.60584806,5819514.02501594
+1633,Puschkinallee (Alt-Treptow),Alt-Treptow,Straße,395431.09352399,5816959.42145838
+1634,Buschkrugallee (Britz),Britz,Straße,394367.18557355,5813617.33654886
+1635,Wegedornstraße (Altglienicke),Altglienicke,Weg,399784.79365975,5809209.44010226
+1636,Kantstraße (Charlottenburg),Charlottenburg,Straße,386700.00102371,5818562.34520329
+1637,Bergiusstraße (Neukölln),Neukölln,Straße,395200.15307705,5813855.1818874
+1638,Hauptstraße (Schöneberg),Schöneberg,Straße,387213.80434069,5815145.1334422
+1639,Schönhauser Allee (Prenzlauer Berg),Prenzlauer Berg,Allee,392116.03243946,5821062.31545902
+1640,A117 (Treptow-Zubringer),Treptow-Zubringer,Straße,401763.04913586,5806643.76102165
+1641,Neudecker Weg (Rudow),Rudow,Weg,398425.66002468,5808648.39672906
+1642,Torstraße (Mitte),Mitte,Straße,391484.08366566,5821145.38404435
+1643,Reinickendorfer Straße (Wedding),Wedding,Straße,389431.8711079,5823056.43431992
+1644,Markgrafendamm (Friedrichshain),Friedrichshain,Straße,395806.80538306,5817540.27438252
+1645,Minna-Cauer-Straße (Moabit),Moabit,Straße,389365.43307179,5821203.37401004
+1646,Messedamm (Westend),Westend,Straße,382830.13255955,5818064.55774736
+1647,Nürnberger Straße (Charlottenburg),Charlottenburg,Straße,387038.24301026,5817953.1822217
+1648,Schulstraße (Wedding),Wedding,Straße,389327.45100707,5823661.47916941
+1649,Flughafenstraße (Neukölln),Neukölln,Straße,392863.85148194,5815650.07389449
+1650,Alt-Moabit (Moabit),Moabit,Straße,386892.87076992,5820659.62966156
+1651,Berliner Straße (Pankow),Pankow,Straße,392383.01871584,5825337.00331009
+1652,Manteuffelstraße (Tempelhof),Tempelhof,Straße,389820.91036605,5814171.85914358
+1653,Chausseestraße (Mitte),Mitte,Straße,390131.16086651,5821539.54702709
+1654,A114 AS Pasewalker Straße,Pankow-Zubringer,Straße,393583.13549913,5827057.64980584
+1655,Paulstraße (Moabit),Moabit,Straße,388423.826541,5820132.09781766
+1656,Bergiusstraße (Neukölln),Neukölln,Straße,395138.5207246,5813931.94093472
+1657,Gardeschützenweg (Lichterfelde),Lichterfelde,Straße,385348.11203966,5812292.77039279
+1658,Zepernicker Straße/Alt-Buch (Buch),Buch,Straße,398852.76223168,5832931.84379982
+1659,Birkbuschstraße (Steglitz),Steglitz,Straße,386484.31333165,5811910.61280195
+1660,Attilastraße (Tempelhof),Tempelhof,Straße,388684.5932324,5812053.08565683
+1661,Oranienstraße (Kreuzberg),Kreuzberg,Straße,391687.698642,5818460.46185571
+1662,Silbersteinstraße (Neukölln),Neukölln,Straße,394149.88709942,5814193.40444556
+1663,Maßmannstraße (Steglitz),Steglitz,Straße,385969.92431054,5814105.49578694
+1664,Kastanienallee (Rosenthal),Rosenthal,Straße,390856.94481117,5828027.70211364
+1665,Jean-Jaurés-Straße (Wittenau),Wittenau,Straße,386420.5639314,5829518.41627482
+1666,Schöneberger Straße (Steglitz),Steglitz,Straße,386447.15915737,5814054.70244037
+1667,Hauptstraße (Rummelsburg),Rummelsburg,Straße,396279.19580547,5817970.55840751
+1668,Kaiserin-Augusta-Allee (Charlottenburg),Charlottenburg,Allee,385672.70839177,5820849.65748197
+1669,Alexanderstraße (Mitte),Mitte,Straße,392569.61281727,5820018.59399906
+1670,Klosterstraße (Spandau),Spandau,Straße,377685.61213973,5821641.62328764
+1671,Karl-Liebknecht-Straße (Mitte),Mitte,Straße,392050.35057375,5820293.1786321
+1672,Messedamm (Westend),Westend,Straße,383385.35066994,5819178.38402235
+1673,Rudower Straße (Altglienicke),Altglienicke,Straße,400486.91115567,5808872.94384489
+1674,B96a Am Seegraben (Treptow-Zubringer),Treptow-Zubringer,Straße,401373.98312171,5806725.98373142
+1675,Französische Str.,Mitte,Straße,390394.35660269,5819488.26357671
+1676,Nöldnerstraße (Rummelsburg),Rummelsburg,Straße,396690.62720178,5817938.3898671
+1677,Lietzenburger Straße,Charlottenburg,Straße,386631.67743525,5818018.7662475
+1678,Finckensteinallee (Lichterfelde),Lichterfelde,Straße,384556.86055184,5810488.9871976
+1679,Langhansstraße,Weißensee,Straße,394300.33467789,5823539.48476044
+1680,Lehderstraße,Weißensee,Straße,393923.10585011,5823484.77969026
+1681,Simplonstraße,Friedrichshain,Straße,395521.83268209,5818599.98032466
+1682,Brunnenstraße,Mitte,Straße,391313.78044787,5821911.07195965
+1683,Fischerinsel,Mitte,Straße,391819.69939695,5819404.50129699
+1684,Kiefholzstraße,Baumschulenweg,Straße,397220.96104309,5813899.7900886
+1685,Tiergartentunnel,Tiergarten,Straße,389400.9067772,5819717.90361665
+1686,Schönwalder Straße,Spandau,Straße,378018.6742049,5823521.20129078
+1687,Pionierstraße,Falkenhagener Feld,Straße,376422.56175411,5824185.81672406
+1688,"Kantstraße, Budapesterstraße",Charlottenburg,Straße,386917.88850576,5818558.75856488
+1689,Ringbahnstraße,Tempelhof,Straße,390941.38037919,5814021.64353942
+1690,Marzahner Chaussee,Marzahn,Straße,400527.94001441,5820378.24503291
+1691,Karlshorster Straße,Lichtenberg,Straße,396507.35225459,5817964.06595926
+1692,Schönholzer Weg,Rosenthal,Weg,389868.43418278,5827464.45047375
+1693,Karlshorster Straße,Lichtenberg,Straße,396520.50918763,5817979.36618722
+1694,Hannah-Arendt-Straße,Mitte,Straße,389979.29974693,5819370.82357064
+1695,Frohnauer Straße,Hermsdorf,Straße,384421.41588984,5831762.74232493
+1696,Friedrich-Krause-Ufer,Moabit,Straße,388266.39295225,5822236.63266277
+1697,Pichelsdorfer Straße,Wilhelmstadt,Straße,377575.05596751,5821291.60358803
+1698,Albrechtstraße,Steglitz,Straße,386879.93975095,5812558.13671489
+1699,Klingsorstraße,Steglitz,Straße,386316.34873085,5812230.08508923
+1700,Karl-Ziegler-Straße,Adlershof,Straße,399720.28921878,5810278.37104232
+1701,Am Treptower Park,Alt-Treptow,Straße,395280.97508264,5816844.12053265
+1702,Waldowallee,Karlshorst,Straße,400181.65489874,5816260.65632913
+1703,Schwartzstraße,Reinickendorf,Straße,390063.55835715,5825366.46386873
+1704,Stralauer Straße,Mitte,Straße,392127.74284384,5819646.63140368
+1705,Säntisstraße,Marienfelde,Straße,389863.72141714,5808355.18329509
+1706,Greifswalder Straße/Danziger,Prenzlauer Berg,Straße,393716.98868109,5821836.37725297
+1707,AS Bucher Straße,Pankow-Zubringer,Straße,393617.47562685,5831562.36148365
+1708,Turmstraße,Moabit,Straße,388093.60450619,5820863.50153447
+1709,	Buckower Damm,Buckow,Damm,393788.26156483,5808680.75945163
+1710,Perleberger Straße,Moabit,Straße,387801.76961425,5821305.17083646
+1711,Thusnelda-Allee,Moabit,Allee,387333.6312902,5820830.07517335
+1712,Bucher Straße,Französisch-Buchholz,Straße,394670.45211363,5830594.45317864
+1714,Gardeschützenweg,Lichterfelde,Straße,385398.3936855,5812320.52922432
+1715,Invalidenstraße,Moabit,Straße,388983.11214805,5820653.9681671
+1716,	Ringstraße,Lichterfeld,Straße,383547.14211068,5810557.88637899
+1717,	Buckower Chaussee,Marienfelde,Straße,389983.77698247,5807994.63461684
+1718,	Roseggerstraße,Neukölln,Straße,394444.76900021,5815510.86453221
+1719,	Roelckestraße,Weißensee,Straße,394546.10436942,5823701.20347734
+1720,	Salzufer,Charlottenburg,Straße,386757.72718439,5819493.86878045
+1721,	Flughafenstraße,Neukölln,Straße,393582.55463955,5815774.40927427
+1722,	Hennigsdorfer Straße/Heiligenseestraße,Heiligensee,Straße,379308.12284313,5830519.59515741
+1723,Dänenstraße,Pankow,Straße,392373.27442285,5823368.63079519
+1724,A114,Pankow-Zubringer,Straße,393559.74277127,5827051.03766191
+1725,	Schnellerstraße,Niederschöneweide,Straße,398741.98722795,5812866.85728555
+1726,Großbeerenstraße,Kreuzberg,Straße,390354.59836973,5817611.02510008
+1727,	Niemetzstraße,Neukölln,Straße,394878.40930525,5814533.4807116
+1728,	Tegeler Straße,Wedding,Straße,388710.06406395,5822340.69568808
+1729,Fürstendamm,Frohnau,Straße,384739.3670762,5832685.33190743
+1730,	Alexandrinenstraße,Kreuzberg,Straße,391706.09099568,5818334.09136599
+1731,	Provinzstraße,Reinickendorf,Straße,389989.0286215,5824666.75369881
+1732,Ritterstraße,Kreuzberg,Straße,391919.69247193,5818083.7907498
+1733,Alt-Moabit,Moabit,Straße,388668.67576129,5820538.36706515
+1734,	Obentrautstraße,Kreuzberg,Straße,390483.96227591,5817482.83569892
+1735,Eichbuschallee,Plänterwald,Straße,396746.05117812,5814645.48300428
+1736,Tegeler Straße,Wedding,Straße,388641.89101961,5822433.82890533
+1737,	Uferstraße,Gesundbrunnen,Straße,389902.00927697,5823786.49897362
+1738,Turmstraße,Moabit,Straße,387379.11126911,5820877.54677114
+1739,	Am Spreebord,Charlottenburg,Straße,385328.96958672,5820341.12823422
+1740,Turmstraße,Moabit,Straße,387934.50381013,5820860.01854909
+1741,	Mainzer Straße,Neukölln,Straße,393288.72838003,5815390.33384641
+1742,	Wiltbergstraße,Buch,Straße,398000.22522985,5832923.00507178
+1743,Nalepastraße,Oberschöneweide,Straße,398621.21447763,5813756.05537678
+1744,Sellerstraße,Wedding,Straße,389472.27799647,5822343.45216937
+1745,	Wrangelstraße,Kreuzberg,Straße,393869.61264406,5817893.5147874
+1746,	Zinnowitzer Straße,Mitte,Straße,390305.56382786,5821388.30467416
+1747,	Mariannenstraße,Kreuzberg,Straße,392927.3744858,5817783.70706596
+1748,Radickestraße,Adlershof,Straße,401073.44681115,5810336.39134563
+1749,Wallensteinstraße,Karlshorst,Straße,399258.75570752,5816214.43758818
+1750,Clayallee,Dahlem,Straße,382613.1424262,5812894.10974547
+1751,Edisonstraße,Oberschöneweide,Straße,399042.47252206,5813830.60047677
+1752,Großbeerenstraße/Marienfelder Allee,Marienfelde,Allee,389453.78986459,5809641.82828823
+1753,Goltzstraße - Bahnhofstraße,Schöneberg,Straße,391663.39562369,5805264.07709618
+1754,Invalidenstraße,Moabit,Straße,388948.39706443,5820658.53881449
+1755,Schönfließer Straße,Frohnau,Straße,384224.12947284,5833810.38022762
+1756,Alt-Moabit,Moabit,Straße,387499.48003159,5820814.02102853
+1757,Baumschulenstraße,Baumschulenweg,Straße,397600.36462469,5814416.8315731
+1758,Gradestraße,Britz,Straße,393523.54934815,5812556.32863127
+1759,Köthener Straße,Kreuzberg,Straße,389702.08890668,5818260.16730768
+1760,Semmelweisstraße,Altglienicke,Straße,400002.36361289,5809237.83244569
+1761,A111,Hamburg-Zubringer,Straße,385215.82650109,5825596.50105372
+1762,	Hohenzollernring,Hakenfelde,Straße,378363.62140586,5824371.08746415
+1763,	Hubertusstraße,Spandau,Straße,377515.24465107,5824893.06011089
+1764,Friedrich-List-Ufer,Moabit,Straße,389463.79505971,5820591.23821924
+1765,Mehringdamm,Kreuzberg,Straße,390410.34379727,5816334.32870023
+1766,Nordufer,Wedding,Straße,387609.59989056,5822358.2773621
+1767,An der Mole,Rummelsburg,Straße,396125.73303725,5817941.76232638
+1768,Baerwaldstraße,Kreuzberg,Straße,391586.14279056,5817172.13348285
+1769,	Eisenacher Straße,Marzahn,Straße,404393.30712422,5821968.25068646
+1770,Friedenstraße,Friedrichshain,Straße,394005.31696435,5820056.85828901
+1771,	Detmolder Straße,Wilmersdorf,Straße,385926.43394863,5815631.37149904
+1772,Friedenstraße,Friedrichshain,Straße,394005.31696435,5820056.85828901
+1773,Zinnowitzer Straße,Mitte,Straße,390411.27106993,5821426.7759206
+1774,Kronprinzessinnenweg,Wannsee,Straße,379679.58463884,5814144.75371782
+1775,Marienfelder Allee,Marienfelde,Allee,388391.26826432,5807785.27328392
+1776,Schönstraße,Weißensee,Straße,395332.78654671,5824045.2800023
+1777,Schönfließer Straße,Frohnau,Straße,384447.3955527,5833805.08389043
+1778,Ruschestraße,Lichtenberg,Straße,397263.06615532,5820043.07247089
+1779,Perleberger Straße,Moabit,Straße,388120.25073564,5821545.36683649
+1780,	Landsberger Allee,Marzahn,Allee,400853.26780881,5822038.68207485
+1781,Skalitzer Straße,Kreuzberg,Straße,392480.12405434,5817675.43566789
+1782,	Neues Ufer,Moabit,Straße,385660.02997096,5821390.77942165
+1783,	Elsenbrücke,Alt-Treptow,Straße,395674.85335063,5817313.63757197
+1784,Jägerstr.,Mitte,Straße,390440.62943788,5819392.9769646
+1785,Mauerstraße,Mitte,Straße,390382.97213938,5819546.82740036
+1786,Mauerstraße,Mitte,Straße,390404.2777676,5819434.07232959
+1787,Soldiner Str.,Gesundbrunnen,Straße,390285.02427042,5824559.95383412
+1788,Henningsdorfer Straße,Heiligensee,Straße,379669.16466292,5831457.74288866
+1789,Karl-Marx-Straße,Neukölln,Straße,393738.78733079,5815676.21671143
+1790,Pankgrafenstraße,Karow,Straße,396329.22709544,5830495.62317762
+1791,Neuköllnische Allee,Neukölln,Allee,395122.15541222,5814339.54668011
+1792,Cora-Berliner-Straße,Mitte,Straße,390060.84533643,5819462.02044893
+1793,Prinzenstraße,Kreuzberg,Straße,392021.62314187,5818040.817066
+1794,Mönchmühler Straße/Hauptstraße,Rosenthal,Straße,390139.14777648,5829459.2588764
+1795,Mönchmühler Straße,Blankenfelde,Straße,390693.60341739,5830898.88965654
+1796,Grüntaler Straße,Gesundbrunnen,Straße,390656.80709952,5823722.94349348
+1797,Roelckestraße,Weißensee,Straße,394546.59613492,5823711.43011763
+1798,Märkische Allee (Marzahn),Marzahn,Allee,402232.37351025,5824487.88833379
+1799,Britzer Damm (Britz),Britz,Damm,393615.19392147,5811888.26207308
+1800,Kaiserdamm,Charlottenburg,Straße,384451.48635132,5819245.04087541
+1801,	Brückenstraße,Niederschöneweide,Brücke,398737.43163762,5812879.96975066
+1802,Pyramidenring,Marzahn,Straße,400042.78088319,5821220.64386294
+1803,	Südwestkorso,Friedenau,Straße,386161.61077955,5815225.30095622
+1804,Wünsdorfer Straße,Lichtenrade,Straße,390792.35052587,5805283.33002431
+1962,Blumberger Damm,Biesdorf,Damm,402448.22854302,5819060.22244132
+1960,"Tunnel Schlangenbader Straße (Schmargendorf, ehem. A104)",Schmargendorf,Straße,384962.78365864,5814705.3294238
+1713,	A114 Bucher Straße,Bohnsdorf,Straße,401122.90806925,5806454.30530495

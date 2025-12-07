@@ -19,15 +19,42 @@ modelbuild/
 ├── README.md                              # This file
 ├── QUICKSTART.md                          # 5-minute quick start guide
 ├── ML_CHEATSHEET.md                       # Comprehensive ML reference
+├── AUTO_MODEL_GUIDE.md                    # 🤖 Auto model selector guide
+├── EXERCISES.md                           # Practice exercises
 ├── requirements.txt                       # Python dependencies
 │
 ├── model_building_tutorial.ipynb          # 📓 Main interactive tutorial
 │
+├── auto_model_selector.py                 # 🤖 **NEW!** Intelligent auto-selector
 ├── simple_classification_example.py       # 🏷️ Classification demo
 ├── simple_regression_example.py           # 📈 Regression demo
 ├── simple_clustering_example.py           # 🎨 Clustering demo
 └── compare_models.py                      # 🔬 Model comparison framework
 ```
+
+## 🌟 **NEW: Intelligent Auto Model Selector**
+
+Don't know which model to use? Let the system decide for you!
+
+```python
+from auto_model_selector import AutoModelSelector
+
+# Just provide your data - the system does the rest!
+selector = AutoModelSelector()
+selector.fit(X, y)  # Automatically detects problem type and selects best model
+
+# Make predictions with the best model
+predictions = selector.predict(new_data)
+```
+
+**Features:**
+- ✅ Auto-detects problem type (classification/regression/clustering)
+- ✅ Analyzes dataset characteristics
+- ✅ Tests multiple appropriate models
+- ✅ Selects and recommends the best one
+- ✅ Explains why it was chosen
+
+See **[AUTO_MODEL_GUIDE.md](AUTO_MODEL_GUIDE.md)** for complete documentation.
 
 ## 🚀 Getting Started
 
